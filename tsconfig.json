@@ -1,0 +1,20 @@
+{
+   "compilerOptions": {
+      "module": "commonjs",
+      "declaration": true,
+      "removeComments": true,
+      "emitDecoratorMetadata": true,
+      "experimentalDecorators": true,
+      "allowSyntheticDefaultImports": true,
+      "sourceMap": true,
+      "outDir": "./dist",
+      "baseUrl": "./",
+      "incremental": true,
+      "skipLibCheck": true,
+      "importHelpers": true,
+      "esModuleInterop": true,
+      "target": "ES6",
+      "resolveJsonModule": true
+    }
+  }
+  
